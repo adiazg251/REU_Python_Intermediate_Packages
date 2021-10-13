@@ -1,5 +1,5 @@
 '''
-Created by Victoria Catlett for the Intermediate Python 3 Workshop
+Created for the Intermediate Python 3 Workshop
 '''
 def call_this_function(x):
     y = x**2
